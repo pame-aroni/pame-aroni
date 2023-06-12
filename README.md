@@ -2,7 +2,7 @@
 - 👀 I’m interested in JAVA, Spring, SQL, CSS, anything that has to do with backend development
 - 🌱 I’m currently learning JAVA, Maven, Spring AOP
 
-Im currently studying systems engineering at UTN University.
+Im currently participating in a Java Developer Bootcamp from Educacion IT
 I seek to improve my coding skills to achieve my potential and become the developer that i want to be.
 
 <!---
